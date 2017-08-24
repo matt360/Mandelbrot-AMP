@@ -11,18 +11,8 @@
 *.userprefs
 
 # Build results
-**/[Dd]ebug/**
-!**/[Dd]ebug/freeglut.dll
-!**/[Dd]ebug/glew32.dll
-!**/[Dd]ebug/SDL2.dll
-!**/[Dd]ebug/gfx
-!**/[Dd]ebug/models
-**/[Rr]elease/**
-!**/[Rr]elease/freeglut.dll
-!**/[Rr]elease/glew32.dll
-!**/[Rr]elease/SDL2.dll
-!**/[Rr]elease/gfx
-!**/[Rr]elease/models
+[Dd]ebug/
+[Rr]elease/
 [Dd]ebugPublic/
 [Rr]eleases/
 x64/
