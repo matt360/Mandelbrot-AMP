@@ -253,3 +253,6 @@ paket-files/
 
 #presentation
 #*.pptx
+
+#excel files
+*.csv
