@@ -1,13 +1,47 @@
-# Midnight
+`mouse wheel up` - zoom in
 
-Open source content for Midnight theme. Theme was first designed / developed for GitHub Pages and is available for download, forking and using anywhere else on the web.
+`mouse wheel down` - zoom out
 
-![Midnight Theme](http://f.cl.ly/items/2G0Q031t2K3h0F2i3V1E/Screen%20Shot%202012-12-25%20at%208.38.55%20AM.png)
+`u` - increase maximum number of interations and red, green, blue colour value
 
-The Midnight Pages demo is [here](http://mattgraham.github.com/midnight)
+`i` - decrease maximum number of interations and red, green, blue colour value
 
-*Note Additional font characters for OpenSans typeface can be found in [v1.1](https://github.com/mattgraham/Midnight/archive/v1.1.zip)
+`o` - increase red, green, blue colour value
 
-Theme by [Matt Graham](http://madebygraham.com), twitter [@michigangraham](http://twitter.com/#!/michigangraham)
+`p` - decrease red, green, blue colour value
 
-[Creative Commons Attribution](http://creativecommons.org/licenses/by/3.0/)
+`z` - increase maximum number of interations
+
+`x` - decrease maximum number of interations
+
+`left arrow` - increase red colour value
+
+`right arrow` - increase green colour value
+
+`up arrow` - increase blue colour value
+
+`down arrow` & `r` - decrease red colour value
+
+`down arrow` & `g` - decrease green colour value
+
+`down arrow` & `b` - decrease blue colour value
+
+`l` - display value of red, green, blue and maximum iterations
+
+`c` - calculate a number of times (set by the `max_timings_` variable)
+
+`v` - calculate once
+
+`1` - use NVIDIA accelerator
+
+`2` - use Microsoft basic render driver accelerator
+
+`3` - use software adapter accelerator
+
+`4` - use cpu accelerator
+
+`5` - switch to amp_mandelbrot Mandelbrot calculation method
+
+`6` - switch to amp_pixel_mandelbrot Mandelbrot calculation method
+
+`7` - switch to amp_barrier_mandelbrot Mandelbrot calculation method
