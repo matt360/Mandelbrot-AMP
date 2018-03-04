@@ -1,5 +1,5 @@
 // Data and Structures 2 (CMP202) - Assessment Project
-// @author Matthew Wallace <1502616@abertay.ac.uk>
+// @author Mateusz Zaremba <1502616@abertay.ac.uk>
 #include <freeglut.h>
 #include "dependencies.h"
 #include "mandelbrot.h"
